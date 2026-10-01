@@ -1,0 +1,2 @@
+A104,Dell XPS 15,Laptop,false
+A104,Dell XPS 15,Laptop,false
